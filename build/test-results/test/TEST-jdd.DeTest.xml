@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="jdd.DeTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2022-02-25T14:06:58" hostname="DESKTOP-6O7O4I7" time="0.4">
+  <properties/>
+  <testcase name="testDeLancerImpossibleSuperieurAvecMockito" classname="jdd.DeTest" time="0.4"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
